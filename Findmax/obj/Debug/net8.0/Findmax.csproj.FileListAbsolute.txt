@@ -1,0 +1,15 @@
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\bin\Debug\net8.0\Findmax.exe
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\bin\Debug\net8.0\Findmax.deps.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\bin\Debug\net8.0\Findmax.runtimeconfig.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\bin\Debug\net8.0\Findmax.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\bin\Debug\net8.0\Findmax.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.AssemblyInfoInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.AssemblyInfo.cs
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.csproj.CoreCompileInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.sourcelink.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\refint\Findmax.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\Findmax.genruntimeconfig.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\Findmax\obj\Debug\net8.0\ref\Findmax.dll
