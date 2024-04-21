@@ -1,0 +1,15 @@
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\bin\Debug\net8.0\CompareNumbers.exe
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\bin\Debug\net8.0\CompareNumbers.deps.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\bin\Debug\net8.0\CompareNumbers.runtimeconfig.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\bin\Debug\net8.0\CompareNumbers.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\bin\Debug\net8.0\CompareNumbers.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.AssemblyInfoInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.AssemblyInfo.cs
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.sourcelink.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\refint\CompareNumbers.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\CompareNumbers.genruntimeconfig.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CompareNumbers\obj\Debug\net8.0\ref\CompareNumbers.dll
