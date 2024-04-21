@@ -1,0 +1,14 @@
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\CheckIfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\CheckIfEven.AssemblyInfoInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\CheckIfEven.AssemblyInfo.cs
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\CheckIfEven.csproj.CoreCompileInputs.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\bin\Debug\net8.0\CheckIfEven.exe
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\bin\Debug\net8.0\CheckIfEven.deps.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\bin\Debug\net8.0\CheckIfEven.runtimeconfig.json
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\bin\Debug\net8.0\CheckIfEven.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\bin\Debug\net8.0\CheckIfEven.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\CheckIfEven.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\refint\CheckIfEven.dll
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\CheckIfEven.pdb
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\CheckIfEven.genruntimeconfig.cache
+C:\Users\teymu\OneDrive\Desktop\Seminarc#\Homeworks\CheckIfEven\obj\Debug\net8.0\ref\CheckIfEven.dll
